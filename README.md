@@ -1,5 +1,5 @@
 # Attrition-Prediction-on-Human-Resource-Data
-Authors: Nitesh & Sanika
+Authors: Sanika
 
 
 Human Resource Analytics
